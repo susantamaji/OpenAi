@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.bg{
+    background: linear-gradient(270deg , black,rgb(6, 6, 66));
+}
+.box2{
+    background: linear-gradient(270deg , rgb(193, 67, 67),rgb(96, 18, 97));
+}
+.type{
+    color:rgb(128, 6, 139);
+}
+.bol{
+    background: linear-gradient(280deg,rgb(59, 59, 141),rgb(9, 9, 59));
+}
